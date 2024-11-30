@@ -8,3 +8,4 @@ Bot de discord con clasificación de imagenes
 
 ## Como se usa:
 >Para utilizarlo tienes los siguientes comandos
+ ![Alt Text]("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGtARxJS7QP2OSL8r5QlnVXa_w2yIaDRb7iA&s")
